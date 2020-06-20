@@ -51,13 +51,14 @@ Jawaban saya untuk Test Technical Bootcamp Dumbways Batch 17
      - Stock
    Isikan data relevan sesuai dengan tabel db yang telah dibuat!
    
+   https://github.com/maulanaiskar/dumbways-17/blob/master/dumbways.sql
    
    Mohon:
    Buatlah query DB/MYSQL untuk menampilkan data sebagai berikut :
-   Tampilkan hasil dari query sebagai berikut :
-   tampilkan semua game dengan genre yang sama
-   Tampilkan semua data game beserta genre maupun stock yang tersisa
-   Tampilkan hasil query post tambah berita dan user
+   - Tampilkan hasil dari query sebagai berikut :
+   - Tampilkan semua game dengan genre yang sama
+   - Tampilkan semua data game beserta genre maupun stock yang tersisa
+   - Tampilkan hasil query post tambah berita dan user
    
    Dari soal Diatas, Buatlah aplikasi sederhana CRUD (CREATE, READ, UPDATE, DELETE) hasil dari query ke layar. dengan ketentuan sebagai berikut:
    - Dapat Menambahkan Game
